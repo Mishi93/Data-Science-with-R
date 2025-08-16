@@ -23,13 +23,7 @@ raw/ → Original datasets
 
 processed/ → Cleaned datasets ready for analysis
 
-projects/ → Mini-projects & case studies (end-to-end analysis)
-
 notes/ → Lecture notes, slides, and PDFs
-
-utils/ → Helper functions & reusable scripts
-
-requirements.txt → List of required R packages
 
 README.md → Course overview and instructions
 
@@ -57,7 +51,7 @@ Basic understanding of programming (optional, but helpful)
 
 Install R (latest version) → Download R
 
-Install RStudio (IDE for R) → Download RStudio
+Install RStudio (IDE for R) → Download RStudio or Install VSCode and download R extension. 
 
 Open the project in RStudio.
 
