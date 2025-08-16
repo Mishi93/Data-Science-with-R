@@ -4,14 +4,34 @@ Welcome to the R Programming Course Repository! 🎓
 This repo contains lecture notes, code examples, exercises, and projects designed to help learners understand and apply R for data analysis, visualization, and statistical modeling.
 
 📂 Repository Structure
-R-Programming-Course/
-│
-├── lectures/        # Lecture slides and notes
-├── code/            # Example R scripts from class
-├── datasets/        # Sample datasets for practice
-├── assignments/     # Exercises and homework tasks
-├── projects/        # Mini-projects and case studies
-└── README.md        # Course overview
+
+01_basics/ → Introduction to R (syntax, variables, operators)
+
+02_data_structures/ → Vectors, Lists, Matrices, Data Frames
+
+03_data_wrangling/ → Data manipulation with dplyr, tidyr
+
+04_data_visualization/ → Visualization with ggplot2, base R plots
+
+05_statistics/ → Descriptive stats, hypothesis testing, regression
+
+06_machine_learning/ → Intro to ML with caret, random forests, clustering
+
+datasets/
+
+raw/ → Original datasets
+
+processed/ → Cleaned datasets ready for analysis
+
+projects/ → Mini-projects & case studies (end-to-end analysis)
+
+notes/ → Lecture notes, slides, and PDFs
+
+utils/ → Helper functions & reusable scripts
+
+requirements.txt → List of required R packages
+
+README.md → Course overview and instructions
 
 🧑‍🏫 Course Overview
 
