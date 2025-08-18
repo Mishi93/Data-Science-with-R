@@ -3,7 +3,9 @@ conda install jupyter
 conda create -n Aptech
 conda activate Aptech
 conda install -c conda-forge r-base
+conda deactivate
 
 Now go to R console:
 install.packages('IRkernel')
+
 IRkernel::installspec()
