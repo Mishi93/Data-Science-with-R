@@ -9,13 +9,13 @@ This repo contains lecture notes, code examples, exercises, and projects designe
 
 02_data_structures/ → Vectors, Lists, Matrices, Data Frames
 
-03_data_wrangling/ → Data manipulation with dplyr, tidyr
+03_data_wrangling/ → Data manipulation with dplyr
 
 04_data_visualization/ → Visualization with ggplot2, base R plots
 
 05_statistics/ → Descriptive stats, hypothesis testing, regression
 
-06_machine_learning/ → Intro to ML with caret, random forests, clustering
+06_machine_learning/ → Intro to ML with clustering, k-means, cross validation
 
 datasets/
 
