@@ -3,7 +3,9 @@ conda install jupyter
 
 Now go to R console:
 install.packages('IRkernel')
-IRkernel::installspec(name = "ir43", displayname = "Aptech R")
+IRkernel::installspec(name = "ir45", displayname = "Aptech R 4.5.1")
+
+
 
 
 
